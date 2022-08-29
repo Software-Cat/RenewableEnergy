@@ -5,7 +5,7 @@ subtitle: The pros and cons of energy collected form renewable resources
 cover-img: /assets/img/gas-pipes.jpg
 thumbnail-img: /assets/img/smoke.png
 share-img: /assets/img/gas-pipes.jpg
-tags: [renewable, green]
+tags: [non-renewable, black]
 comments: true
 ---
 
