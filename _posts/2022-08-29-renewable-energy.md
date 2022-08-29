@@ -43,3 +43,25 @@ Renewable energy is energy generated from natural sources that can be replenishe
 - ### Less Waste
 
   Biomass generators could turn waste into organic fuel, thus helping solve the landfill problem in modern society.
+
+## Cons
+
+*Economically...*
+
+- ### High Construction Cost
+
+  The building cost of renewable infrastrucuture is often more expensive than that of non-renewable sources. There are often financial incentives such as carbon tax to offset this disadvantage.
+
+- ### Geographic Factors
+
+  Certain renewable energy sources only work in certain environments. Hydroelectric dams can only be built near reservoirs of existing water, wind farms only work effectively in wind tunnel landscapes, and geothermal generators only work in, well, geothermally active areas. Some places just don't have any of these features.
+
+- ### Indeterminism
+
+  Renewble energy is often seasonal and it's maximum output doesn't magically increase at peak hour, as fossil fuel generators can do. This means many large battery banks must be built, which are often highly expensive and polluting.
+
+*Environmentally...*
+
+- ### Fake "Carbon Free"
+
+  Renewable energy doesn't produce carbon footprint in their use, but the resources required to produce the components of the generator still produces a significant amount.
