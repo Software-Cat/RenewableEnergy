@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renewable Energy
-subtitle: The pros and cons of energy collected form renewable resources
+subtitle: The pros and cons of energy collected from renewable resources
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
