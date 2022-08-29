@@ -2,11 +2,38 @@
 layout: post
 title: Renewable Energy
 subtitle: The pros and cons of energy collected form renewable resources
-gh-repo: Software-Cat/RenewableEnergy
-gh-badge: [star, fork, follow]
-tags: [test]
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [renewable, green]
 comments: true
 ---
+
+## Pros
+
+*Economically...*
+
+- ### Unlimited Supply
+
+
+  Renewable energy never runs out because it is naturally replenished by the cycles of the earth. As long as the cycles keep going (and we know it's going to go for a long time), we can keep harnessing more and more energy.
+
+- ### Low Maintenance
+
+  Since renewable energy has less parts of machinery subject to the high heat of combustion, they are much more durable and need to be repaired less frequently
+
+- ### Low Running Cost
+
+  Renwable energy does not require combustible fuel, and is generally a **"setup-once run forever"** deal. This means it can be a passive source of electricity
+
+*Environmentally...*
+
+{: .box-note}
+**Did You Know:** that 27% of Australian energy is renweable?
+
+
+
+## Cons
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
