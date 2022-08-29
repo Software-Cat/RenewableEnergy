@@ -9,97 +9,37 @@ tags: [renewable, green]
 comments: true
 ---
 
+Renewable energy is energy generated from natural sources that can be replenished as a rapid rate in human timescales. What are its pros and cons?
+
 ## Pros
 
 *Economically...*
 
 - ### Unlimited Supply
 
-
   Renewable energy never runs out because it is naturally replenished by the cycles of the earth. As long as the cycles keep going (and we know it's going to go for a long time), we can keep harnessing more and more energy.
 
 - ### Low Maintenance
 
-  Since renewable energy has less parts of machinery subject to the high heat of combustion, they are much more durable and need to be repaired less frequently
+  Since renewable energy has less parts of machinery subject to the high heat of combustion, they are much more durable and need to be repaired less frequently.
 
 - ### Low Running Cost
 
-  Renwable energy does not require combustible fuel, and is generally a **"setup-once run forever"** deal. This means it can be a passive source of electricity
+  Renwable energy does not require combustible fuel, and is generally a **"setup-once run forever"** deal. This means it can be a unobstrusive source of electricity which can be kept in the background, passively generating energy.
+
+{: .box-note}
+**Did You Know:** 27% of Australian energy is renweable?
 
 *Environmentally...*
 
-{: .box-note}
-**Did You Know:** that 27% of Australian energy is renweable?
+- ### Cleaner Air Quality
 
+  Renewable energy doens't release any contaminants, as fossil fuels do when burnt. This means less toxins and PM2.5 released into the air, leading to cleaner quality of air and hence less lung disease. Powerplants also often release waste water directly into surrounding waterways, thus potentially causing watertable contamination, while renewable energy sources has no such problem.
 
+- ### Less Global Warming
 
-## Cons
+  Burning fossil fuels releases CO<sub>2</sub> gas, causing increased heat to be trapped in the air and hence raising average global temperatures over time. Global warming has led to rapid anthropogenic climate change, which we experience in Australia as severe bushfires and floods.
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+- ### Less Waste
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+  Biomass generators could turn waste into organic fuel, thus helping solve the landfill problem in modern society.
