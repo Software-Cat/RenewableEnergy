@@ -5,7 +5,7 @@ subtitle: The pros and cons of collecting energy from non renewable resources
 cover-img: /assets/img/gas-pipes.jpg
 thumbnail-img: /assets/img/smoke.jpg
 share-img: /assets/img/gas-pipes.jpg
-tags: [books, test]
+tags: [nonrenewable, black]
 ---
 
 Non renewable resources are natural resources generated slowly over millions of years. What are its pros and cons?
