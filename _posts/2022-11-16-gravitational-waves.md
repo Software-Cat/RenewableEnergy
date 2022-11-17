@@ -9,59 +9,19 @@ tags: [gravity, universe]
 comments: true
 ---
 
-Renewable energy is energy generated from natural sources that can be replenished as a rapid rate in human timescales. What are its pros and cons?
+Recently, there has been a lot of hype in the scientific community about "gravitational waves", a mysterious wave of disturbance through spacetime itself. But what exaclty is this wave? And why sould we care about it?
 
-## Pros
+## The History
 
-*Economically...*
+When Albert Einstein created his theory of general relativity in 1915, his formula revealed something strange. In general relativity, spacetime behaved like a fabric, where space dictates how matter moves, and matter dictates how space bends. However, Einstein's formulas predicted ripples through this fabric, behaving like waves. This is exactly gravitational waves which we observe today.
 
-- ### Unlimited Supply
+## The Detection
 
-  Renewable energy never runs out because it is naturally replenished by the cycles of the earth. As long as the cycles keep going (and we know it's going to go for a long time), we can keep harnessing more and more energy.
+When gravitational waves pass a region of spacetime, that region is compressed and rarefacted ever so slightly. This property allows us to detect these waves. A common instrument used for detection is called the "Weber bar", a long metal bar protected from all seismic movements. When the wave passes through the bar at its resonant frequency, the bar compresses and expands very slightly with the wave, magnifying its action to a detectable level.
 
-- ### Low Maintenance
+## The Sources
 
-  Since renewable energy has less parts of machinery subject to the high heat of combustion, they are much more durable and need to be repaired less frequently.
-
-- ### Low Running Cost
-
-  Renwable energy does not require combustible fuel, and is generally a **"setup-once run forever"** deal. This means it can be a unobstrusive source of electricity which can be kept in the background, passively generating energy.
+Many celestial events produce gravitational waves, since these waves are produced when any mass moves through space. However, only a few violent events are strong enough to be detectable. One of the most famous examples of such events is the collision of two neutron stars orbiting eachother. Although these two stars may be in a stable orbit, they continuously lose energy by emitting gravitational waves in their movement. This rate of loss is very slow, only 200 Watts. However, over a cosmological timescale, eventually these two neutron stars will collide into eachother to form a black hole.
 
 {: .box-note}
-**Did You Know:** 27% of Australian energy is renweable?
-
-*Environmentally...*
-
-- ### Cleaner Air Quality
-
-  Renewable energy doens't release any contaminants, as fossil fuels do when burnt. This means less toxins and PM2.5 released into the air, leading to cleaner quality of air and hence less lung disease. Powerplants also often release waste water directly into surrounding waterways, thus potentially causing watertable contamination, while renewable energy sources has no such problem.
-
-- ### Less Global Warming
-
-  Burning fossil fuels releases CO<sub>2</sub> gas, causing increased heat to be trapped in the air and hence raising average global temperatures over time. Global warming has led to rapid anthropogenic climate change, which we experience in Australia as severe bushfires and floods.
-
-- ### Less Waste
-
-  Biomass generators could turn waste into organic fuel, thus helping solve the landfill problem in modern society.
-
-## Cons
-
-*Economically...*
-
-- ### High Construction Cost
-
-  The building cost of renewable infrastrucuture is often more expensive than that of non-renewable sources. There are often financial incentives such as carbon tax to offset this disadvantage.
-
-- ### Geographic Factors
-
-  Certain renewable energy sources only work in certain environments. Hydroelectric dams can only be built near reservoirs of existing water, wind farms only work effectively in wind tunnel landscapes, and geothermal generators only work in, well, geothermally active areas. Some places just don't have any of these features.
-
-- ### Indeterminism
-
-  Renewble energy is often seasonal and it's maximum output doesn't magically increase at peak hour, as fossil fuel generators can do. This means many large battery banks must be built, which are often highly expensive and polluting.
-
-*Environmentally...*
-
-- ### Fake "Carbon Free"
-
-  Renewable energy doesn't produce carbon footprint in their use, but the resources required to produce the components of the generator still produces a significant amount.
+**Did You Know:** Albert Einstein originally didn't believe in gravitational waves and thought it was an error in his formula?
